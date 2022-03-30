@@ -18,6 +18,9 @@ touch 4-listmorefiles creat file
 vi 4-listmorefile edit file
 chmod u+x 4-listmorefile make file executable
 touch 5-listfilesdigitonly create file
-vi 5-listfilesdigitonly eddit file
-chmod u+x 5-listfilesdigitonly make file exutable
+vi 5-listfilesdigitonly edit file
+chmod u+x 5-listfilesdigitonly make file executable
+touch 6-firstdirectory creat file
+vi 6-firstdirectory edit file
+chmod u+x 6-firstdirectory make file executable
 
