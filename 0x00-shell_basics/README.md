@@ -17,3 +17,7 @@ chmod u+x 3-listfiles make file executable
 touch 4-listmorefiles creat file
 vi 4-listmorefile edit file
 chmod u+x 4-listmorefile make file executable
+touch 5-listfilesdigitonly create file
+vi 5-listfilesdigitonly eddit file
+chmod u+x 5-listfilesdigitonly make file exutable
+
