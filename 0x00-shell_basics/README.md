@@ -11,3 +11,6 @@ chmod u+x 1-listit make file executable
 touch 2-bring_me_home creat file
 vi 2-bring_me_home edit file
 chmod u+x 2-bring_me_home make file executable
+touch 3-listfiles creat file
+vi 3-listfiles edit file
+chmod u+x 3-listfiles make file executable
